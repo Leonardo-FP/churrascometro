@@ -1,0 +1,51 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('https://bellamais.correiodopovo.com.br/image/policy:1.608472:1619214687/dia%20do%20churrasco.jpeg?a=3%3A2&$p$a=d169ae4'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: url('http://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/11/apps-para-organizar-churrasco.jpg'); */
+}
+.container{
+    width: 600px;
+    padding-top: 10vh;
+    margin: auto;
+}
+
+.fields{
+    margin: auto;
+    width: 250px;
+    text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+
+    text-shadow: 
+               -1px -1px 0px #000, 
+               -1px 1px 0px #000,                    
+                1px -1px 0px #000,                  
+                1px 0px 0px #000;
+}
+
+input{
+    width: 100%;
+    border-radius: 5px;
+}
+
+button{
+    float: left;
+}
+
+#escondidos{
+    margin-top: 7vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 3vh;
+    text-align: left;
+}
+
+#escondidos p{
+    padding: 2px;
+    background-color: white;
+    border-radius: 2px;
+}
